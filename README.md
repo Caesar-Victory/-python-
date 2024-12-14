@@ -18,6 +18,11 @@
 
 
 
+# 其他人的在职以及离职原因
+
+1. https://www.cnblogs.com/pengsixiong/p/5797823.html
+2. https://www.kawabangga.com/posts/1928
+
 # 工作情况
 
 1. 工作内容：开发+客服，前期培训是文档以及视频，每天和主管交流七分钟左右
